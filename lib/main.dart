@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             fontWeight: FontWeight.w700,
                             letterSpacing: 0.25)),
                     Text(
-                      "1301213098 - Nadir SH",
+                      "1301210495 - Atilla Fejril",
                       style: TextStyle(
                           fontSize: 14,
                           fontWeight: FontWeight.w500,
